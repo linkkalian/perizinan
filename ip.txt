@@ -1,6 +1,5 @@
 #cara atasi erorr curl tidak terbaca
-apt-get install curl -y && apt-get install curl && service ssh restart
-clear
+apt-get install curl -y && apt-get install curl && service ssh restart && clear
 
 #ipvps member
 18.142.31.159
