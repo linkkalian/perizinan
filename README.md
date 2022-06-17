@@ -1,6 +1,6 @@
 # perizinan
 
-# cara atasi erorr curl tidak terbaca
+# cara atasi script erorr Permisson Denied atau curl tidak terbaca
 ```html
 apt-get install curl -y && apt-get install curl && service ssh restart
 ```
