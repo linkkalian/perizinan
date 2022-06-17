@@ -1,4 +1,5 @@
 # perizinan
+# baca kontl dengan teliti
 
 # cara atasi script erorr Permission Denied atau curl tidak terbaca
 ```html
